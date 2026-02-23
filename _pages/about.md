@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink:  /
+permalink: /
 subtitle: Data Scientist | Applied Machine Learning & AI Research
 profile:
   align: right
