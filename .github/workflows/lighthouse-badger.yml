@@ -8,7 +8,8 @@ permissions:
   contents: write
 
 env:
-  URLS: https://nehasq.github.io/
+  URLS: |
+    https://nehasq.github.io/
 
 jobs:
   lighthouse-badger-easy:
