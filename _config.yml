@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name:Neha Shariq
-middle_name: 
-last_name:
+first_name: Neha
+middle_name: #add your middel name
+last_name: Shariq
 email: shariqneha99@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to the academic portfolio of Neha Shariq. Here, you will find comprehensive information about her projects, publications, news updates, CV, and more. This site serves as a detailed showcase of her academic journey and professional accomplishments.
