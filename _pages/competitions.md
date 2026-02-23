@@ -20,6 +20,7 @@ nav_order: 5
 
         <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/532911822641004"><button>View Certificate</button></a>
     </div>
+
 </div>
 
 <div class="project0">
@@ -38,7 +39,6 @@ nav_order: 5
         <a href="https://lablab.ai/event/next2-edge-runners/caduceus/caduceus-your-tool-for-your-health"><button>View Submission</button></a>
     </div>
 </div>
-
 
 <div class="project0">
     <div class="image-container0">

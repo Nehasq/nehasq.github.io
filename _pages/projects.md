@@ -18,8 +18,9 @@ nav_order: 3
         <p>RoadSense AI is a pothole detection system designed for UK roads. The primary focus of this work was the image-based component, which involved developing a system to detect potholes from camera images using machine learning and computer vision techniques, specifically employing object detection with YOLOv8 — a major part of my dissertation research. This task included designing a protocol for efficient data collection, labeling, and preprocessing, followed by implementing and evaluating a model to accurately identify potholes.
 
 In parallel, another component of the project explored the use of accelerometer and gyroscope data for pothole detection. The final goal is to compare the effectiveness of image-based and sensor-based approaches in a comprehensive study, assessing the viability of these methods for road quality evaluation and culminating in the publication of a research paper on the findings.</p>
-        <a href="https://github.com/Nehasq/RoadSense-AI-Smart-Road-Quality-Sensor-with-ML-Computer-Vision"><button>View Project</button></a>
-    </div>
+<a href="https://github.com/Nehasq/RoadSense-AI-Smart-Road-Quality-Sensor-with-ML-Computer-Vision"><button>View Project</button></a>
+</div>
+
 </div>
 
 <div class="project0">
@@ -36,7 +37,6 @@ In parallel, another component of the project explored the use of accelerometer 
         <a href="https://github.com/user-attachments/assets/6564970b-b950-4be9-8606-b2a5b63e0d39"><button>View Demo</button></a>
     </div>
 </div>
-
 
 <div class="project0">
     <div class="image-container0">
