@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>📞 <a href="" style="color: inherit; text-decoration: underline; underline">+(44) 7308160347</a> </p>
-    <p>📧 <a href="mailto:shariqneha99@gmail.com" style="color: inherit; text-decoration: underline; underline">hasnain.x42@gmail.com</a> </p>
+    <p>📧 <a href="mailto:shariqneha99@gmail.com" style="color: inherit; text-decoration: underline; underline">mailto:shariqneha99@gmail.com</a> </p>
     <p>🌐 <a href="https://www.linkedin.com/in/neha-shariq/" style="color: inherit; text-decoration: underline; underline">LinkedIn: neha-shariq/</a> </p>
     <p>🏠 London, United Kingdom </p>
 
