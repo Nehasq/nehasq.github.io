@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hasnainx42.github.io/sitemap.xml
+Sitemap: https://nehasq.github.io//sitemap.xml
