@@ -12,7 +12,7 @@ cv_pdf: /assets/pdf/Neha_Shariq_CV.pdf
 <center>
 <p style="font-weight: bold; text-decoration: underline;">
 
-<a href="{{ page.cv_pdf }}" download>
+<a href="/assets/pdf/Neha_Shariq_CV.pdf" download>
   <div class="pdficon">
     {% include figure.liquid loading="eager" path="assets/img/pdf.jpg" %}
   </div>
@@ -21,7 +21,7 @@ cv_pdf: /assets/pdf/Neha_Shariq_CV.pdf
 
 &emsp;&emsp;&emsp;
 
-<a href="{{ page.cv_pdf }}" target="_blank">
+<a href="/assets/pdf/Neha_Shariq_CV.pdf" target="_blank">
   <div class="pdficon">
     {% include figure.liquid loading="eager" path="assets/img/view.png" %}
   </div>
@@ -32,7 +32,7 @@ cv_pdf: /assets/pdf/Neha_Shariq_CV.pdf
 </center>
 
 <center>
-<iframe src="{{ page.cv_pdf }}" width="100%" height="600"></iframe>
+<iframe src="/assets/pdf/Neha_Shariq_CV.pdf" width="100%" height="600"></iframe>
 </center>
 
 </div>

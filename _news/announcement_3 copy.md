@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-10-06
+date: 2024-01-01
 inline: true
 related_posts: false
 ---
 
-Delivered a workshop on Generative AI at Pak Angels: Essential Generative AI Training Program. [View](https://www.linkedin.com/posts/hasnainx42_generativeai-webinar-activity-7248772995882569730-Ie1j?utm_source=share&utm_medium=member_desktop)
+Announcement coming soon.
