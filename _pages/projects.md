@@ -108,7 +108,7 @@ In parallel, another component of the project explored the use of accelerometer 
         <span class="timeline">March 2024 - April 2024</span>
         </div>
         <p>AI-Assistant-Builder is a flexible platform that enables users to create their own AI assistants tailored to any profession or field. By customizing some data and values, users can effortlessly build specialized AI assistants such as an AI Doctor or an AI Lawyer.</p>
-        <a href="https://github.com/hasnainx42/AI-Assistant-Builder"><button>View Project</button></a>
+        <a href="" ><button>View Project</button></a>
     </div>
 </div>
 

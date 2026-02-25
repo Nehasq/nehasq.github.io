@@ -72,6 +72,6 @@ nav_order: 5
         <p><b>Description:</b> Developed DataWizard, an AI-powered assistant for data science tasks, leveraging LLaMA 3 technology through Together AI and Groq APIs. Utilized pandasai for data manipulation and analysis, and created an intuitive UI with Streamlit.</p>
         <a href="https://github.com/hasnainx42/DataWizard"><button>View Project</button></a>
         <a href="https://lablab.ai/event/llama-3-ai-hackathon/bespoke-solutions/bespoke-solutions-datawizard-llama3-data-asst"><button>View Submission</button></a>
-        <a href="https://datawizard-1.streamlit.app/"><button>View Demo</button></a>
+        <a href=""><button>View Demo</button></a>
     </div>
 </div>

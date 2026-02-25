@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 6
-cv_pdf: assets/pdf/Neha_Shariq_CV.pdf
+cv_pdf: /assets/pdf/Neha_Shariq_CV.pdf
 ---
 
 <div>

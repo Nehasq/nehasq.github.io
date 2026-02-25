@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-08-28
+date: 2024-08-21
 inline: true
 related_posts: false
 ---
 
-Joined Arbisoft as a Machine Learning Engineer
+Joined Repolify as a Data Scientist
