@@ -19,6 +19,7 @@ nav_order: 3
 
 In parallel, another component of the project explored the use of accelerometer and gyroscope data for pothole detection. The final goal is to compare the effectiveness of image-based and sensor-based approaches in a comprehensive study, assessing the viability of these methods for road quality evaluation and culminating in the publication of a research paper on the findings.</p>
 <a href="https://github.com/Nehasq/RoadSense-AI-Smart-Road-Quality-Sensor-with-ML-Computer-Vision"><button>View Project</button></a>
+
 </div>
 
 </div>
