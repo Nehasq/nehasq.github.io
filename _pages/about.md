@@ -6,16 +6,16 @@ subtitle: Data Scientist | Applied Machine Learning & AI Research
 profile:
   align: right
   image: Neha.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p>📞 <a href="tel:+447308160347" style="color: inherit; text-decoration: underline;">+44 7308 160347</a></p>
     <p>📧 <a href="mailto:shariqneha99@gmail.com" style="color: inherit; text-decoration: underline;">shariqneha99@gmail.com</a></p>
     <p>🌐 <a href="https://www.linkedin.com/in/neha-shariq/" style="color: inherit; text-decoration: underline;">linkedin.com/in/neha-shariq</a></p>
-    <p>🏠 London, United Kingdom </p>
+    <p>🏠 London, United Kingdom</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+news: true
+selected_papers: true
+social: false
 ---
 
 <p style="font-size: 28px; font-weight: bold;">Hello, I'm <b>Neha</b> 👋</p>

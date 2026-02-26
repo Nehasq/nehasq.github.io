@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-08-18
+date: 2024-01-01
 inline: true
 related_posts: false
 ---
 
-Commenced PhD Studies in Computer Science at the University of Central Florida
+Announcement coming soon.
