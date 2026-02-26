@@ -5,7 +5,7 @@ permalink: /
 subtitle: Data Scientist | Applied Machine Learning & AI Research
 profile:
   align: right
-  image: /assets/img/Neha.jpeg
+  image: Neha.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>📞 <a href="tel:+447308160347" style="color: inherit; text-decoration: underline;">+44 7308 160347</a></p>
