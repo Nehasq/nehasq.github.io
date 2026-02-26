@@ -8,7 +8,7 @@ nav_order: 3
 
 <div class="project0">
     <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/smart_scan.jpg" style="width: 300px; height: 300px;" %}
+        {% include figure.liquid loading="eager" path="assets/img/Pothole-Detection.jpg" style="width: 300px; height: 300px;" %}
     </div>
     <div class="project-details0">
         <div class="heading">
