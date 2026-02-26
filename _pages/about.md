@@ -5,7 +5,7 @@ permalink: /
 subtitle: Data Scientist | Applied Machine Learning & AI Research
 profile:
   align: right
-  image: neha.jpeg
+  image: Neha.jpeg
   image_circular: false
   more_info: >
     <p>📞 <a href="" style="color: inherit; text-decoration: underline; underline">+44 7308 160347</a></p>
