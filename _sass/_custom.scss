@@ -1,0 +1,13 @@
+/* Fix News table text color in dark mode */
+html[data-theme="dark"] .news .table,
+html[data-theme="dark"] .news .table td,
+html[data-theme="dark"] .news .table th {
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
+
+/* Optional: Make date column slightly brighter */
+html[data-theme="dark"] .news th {
+  color: #e0e0e0 !important;
+  font-weight: 600;
+}
