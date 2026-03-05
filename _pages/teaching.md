@@ -10,12 +10,9 @@ nav_order: 4
     <img
     src="{{ 'assets/img/explore_learning.png' | relative_url }}"
     alt="Pothole Detection project"
-    style="width: 300px; height: 300px; object-fit: cover;"
+    style="width: 250px; height: 250px; object-fit: cover;"
     loading="eager"
     />
-    <!-- <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/explore_learning.png" title="explorelearning" %}
-    </div> -->
      <div class="project-details0">
         <div class="heading">
         <h3><a href="https://www.explorelearning.co.uk/">Explore Learning</a>: Maths & English Tutor</h3>
