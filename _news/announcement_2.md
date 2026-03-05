@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Repolify as a Data Scientist
+Joined Repolify Ltd as a Data Scientist.

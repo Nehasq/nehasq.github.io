@@ -1,0 +1,7 @@
+/* Fix news table text color */
+.news table,
+.news table td,
+.news table th {
+  color: var(--global-text-color) !important;
+  opacity: 1 !important;
+}
