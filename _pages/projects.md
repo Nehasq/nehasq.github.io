@@ -7,9 +7,12 @@ nav_order: 3
 ---
 
 <div class="project0">
-    <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/Pothole-Detection.jpg" style="width: 300px; height: 300px;" %}
-    </div>
+    <img
+    src="{{ 'assets/img/Pothole-Detection.jpg' | relative_url }}"
+    alt="Pothole Detection project"
+    style="width: 300px; height: 300px; object-fit: cover;"
+    loading="eager"
+    />
     <div class="project-details0">
         <div class="heading">
         <h3>RoadSense AI: Smart Road Quality Sensor with ML & Computer Vision</h3>       
