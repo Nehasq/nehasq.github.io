@@ -10,7 +10,7 @@ nav_order: 3
     <img
     src="{{ 'assets/img/Pothole-Detection.jpg' | relative_url }}"
     alt="Pothole Detection project"
-    style="width: 250px; height: 250px; object-fit: cover;"
+    style="width: 200px; height: 200px; object-fit: cover;"
     loading="eager"
     />
     <div class="project-details0">
