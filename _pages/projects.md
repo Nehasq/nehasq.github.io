@@ -10,15 +10,15 @@ nav_order: 3
     <img
     src="{{ 'assets/img/Pothole-Detection.jpg' | relative_url }}"
     alt="Pothole Detection project"
-    style="width: 200px; height: 200px; object-fit: cover;"
+    style="width: 150px; height: 150px; object-fit: cover;"
     loading="eager"
     />
     <div class="project-details0">
         <div class="heading">
-        <h3 style="margin-right: 10px;"> RoadSense AI: Smart Road Quality Sensor with ML & Computer Vision</h3>       
+        <h3 style="margin-right: 50px;"> RoadSense AI: Smart Road Quality Sensor with ML & Computer Vision</h3>       
         <span class="timeline">Mar 2024 - Sept 2024</span>
         </div>
-        <p style="margin-left: 0; margin-top: 8px;"> RoadSense AI is a pothole detection system designed for UK roads. The primary focus of this work was the image-based component, which involved developing a system to detect potholes from camera images using machine learning and computer vision techniques, specifically employing object detection with YOLOv8 — a major part of my dissertation research. This task included designing a protocol for efficient data collection, labeling, and preprocessing, followed by implementing and evaluating a model to accurately identify potholes.
+        <p style="margin-left: 0; margin-top: 50px;"> RoadSense AI is a pothole detection system designed for UK roads. The primary focus of this work was the image-based component, which involved developing a system to detect potholes from camera images using machine learning and computer vision techniques, specifically employing object detection with YOLOv8 — a major part of my dissertation research. This task included designing a protocol for efficient data collection, labeling, and preprocessing, followed by implementing and evaluating a model to accurately identify potholes.
 
 In parallel, another component of the project explored the use of accelerometer and gyroscope data for pothole detection. The final goal is to compare the effectiveness of image-based and sensor-based approaches in a comprehensive study, assessing the viability of these methods for road quality evaluation and culminating in the publication of a research paper on the findings.</p>
 <a href="https://github.com/Nehasq/RoadSense-AI-Smart-Road-Quality-Sensor-with-ML-Computer-Vision"><button>View Project</button></a>

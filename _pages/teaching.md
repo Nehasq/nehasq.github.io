@@ -10,7 +10,7 @@ nav_order: 4
     <img
         src="{{ 'assets/img/explore_learning.png' | relative_url }}"
         alt="Explore Learning logo"
-        style="width: 200px; height: 200px; object-fit: cover;"
+        style="width: 150px; height: 150px; object-fit: cover;"
         loading="eager"
     />
 
