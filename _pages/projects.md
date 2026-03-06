@@ -6,25 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-<div class="project0">
-    <img
-        src="{{ 'assets/img/Pothole-Detection.jpg' | relative_url }}"
-        alt="Pothole Detection project"
-        style="width:150px; height:150px; object-fit:cover; margin-right:20px;"
-        loading="eager"
-    />
-
-   <div class="project-details0">
-        <div class="heading">
-        <h3 style="margin-right: 100px;"> RoadSense AI: Smart Road Quality Sensor with ML & Computer Vision</h3>       
-        <span class="timeline">Mar 2024 - Sept 2024</span>
-        </div>
-        <p style="margin-right: 100px; margin-top: 8px;">RoadSense AI is a pothole detection system designed for UK roads. The primary focus of this project was the image-based component, which involved developing a system to detect potholes from camera images using machine learning and computer vision techniques, specifically applying object detection with YOLOv8 as part of my dissertation research. This work included designing a protocol for efficient data collection, data labeling, and preprocessing, followed by implementing and evaluating a model to accurately identify potholes.</p>
-<a href="https://github.com/Nehasq/RoadSense-AI-Smart-Road-Quality-Sensor-with-ML-Computer-Vision"><button>View Project</button></a>
-
-</div>
-
-</div>
 
 <div class="project0">
     <img
@@ -47,18 +28,43 @@ nav_order: 3
 </div>
 
 <div class="project0">
-    <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/road-object-detection-1400.png" style="width: 300px; height: 300px;"  %}
-    </div>
-    <div class="project-details0">
+    <img
+        src="{{ 'assets/img/Pothole-Detection.jpg' | relative_url }}"
+        alt="Pothole Detection project"
+        style="width:150px; height:150px; object-fit:cover; margin-right:20px;"
+        loading="eager"
+    />
+
+   <div class="project-details0">
         <div class="heading">
-        <h3>Road Object Detection and Tracking with YOLOv8</h3>
-        <span class="timeline">Jul 2024 - Aug 2024</span>
+        <h3 style="margin-right: 100px;"> RoadSense AI: Smart Road Quality Sensor with ML & Computer Vision</h3>       
+        <span class="timeline">Mar 2024 - Sept 2024</span>
         </div>
-        <p>This project showcases an object tracking system that employs YOLOv8 for detection and integrates a Kalman filter for tracking, thereby implementing the DeepSORT algorithm. It is designed to identify and follow objects within a video stream.</p>
-        <a href="https://github.com/hasnainx42/Road-Objects-Tracking-System-with-YOLOv8"><button>View Project</button></a>
-        <a href="https://github.com/user-attachments/assets/28b75fbd-2915-4bde-b23e-5ad19dc6ce17"><button>View Demo</button></a>
-    </div>
+        <p style="margin-right: 100px; margin-top: 8px;">RoadSense AI is a pothole detection system designed for UK roads. The primary focus of this project was the image-based component, which involved developing a system to detect potholes from camera images using machine learning and computer vision techniques, specifically applying object detection with YOLOv8 as part of my dissertation research. This work included designing a protocol for efficient data collection, data labeling, and preprocessing, followed by implementing and evaluating a model to accurately identify potholes.</p>
+<a href="https://github.com/Nehasq/RoadSense-AI-Smart-Road-Quality-Sensor-with-ML-Computer-Vision"><button>View Project</button></a>
+
+</div>
+
+</div>
+
+<div class="project0">
+    <img
+        src="{{ 'assets/img/PPO.png' | relative_url }}"
+        alt="Pothole Detection project"
+        style="width:150px; height:150px; object-fit:cover; margin-right:20px;"
+        loading="eager"
+    />
+
+   <div class="project-details0">
+        <div class="heading">
+        <h3 style="margin-right: 100px;"> Production Process Optimization using ML </h3>       
+        <span class="timeline">Jan 2022 - Sept 2022</span>
+        </div>
+        <p style="margin-right: 100px; margin-top: 8px;">Production Process Optimization (PPO) is an Industry 4.0–inspired project focused on improving manufacturing efficiency through data analytics and automation. Using Python and Jupyter Notebook, production data was analyzed to identify performance patterns, monitor machine activity, and detect potential faults. The insights are displayed through a React-based web dashboard that allows manufacturing teams to visualize processes, monitor operations remotely, and make data-driven decisions to reduce downtime and enhance productivity.</p>
+<a href="https://github.com/Nehasq/Production-Process-Optimization-using-ML"><button>View Project</button></a>
+
+</div>
+
 </div>
 
 <div class="project0">
