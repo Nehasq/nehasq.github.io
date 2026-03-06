@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-<div class="project0" style="display:flex; align-items:flex-start;">
+<div class="project0">
     <img
         src="{{ 'assets/img/Pothole-Detection.jpg' | relative_url }}"
         alt="Pothole Detection project"
