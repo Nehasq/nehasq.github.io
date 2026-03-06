@@ -27,18 +27,23 @@ nav_order: 3
 </div>
 
 <div class="project0">
-    <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/asl.png" style="width: 300px; height: 300px;"  %}
-    </div>
-    <div class="project-details0">
+    <img
+        src="{{ 'assets/img/Pothole-Detection.jpg' | relative_url }}"
+        alt="Pothole Detection project"
+        style="width:150px; height:150px; object-fit:cover; margin-right:20px;"
+        loading="eager"
+    />
+
+   <div class="project-details0">
         <div class="heading">
-        <h3>American Sign-Language Detection With YOLO</h3>
-        <span class="timeline">Jun 2024 - Aug 2024</span>
+        <h3 style="margin-right: 100px;"> Extension: RoadSense-AI-YOLOv8-UK-Pothole-Detection</h3>       
+        <span class="timeline">Mar 2024 - Sept 2024</span>
         </div>
-        <p> This project demonstrates the use of YOLOv8 for detecting American Sign Language (ASL) gestures.</p>
-        <a href="https://github.com/hasnainx42/American-Sign-Language-Detection"><button>View Project</button></a>
-        <a href="https://github.com/user-attachments/assets/6564970b-b950-4be9-8606-b2a5b63e0d39"><button>View Demo</button></a>
-    </div>
+        <p style="margin-right: 100px; margin-top: 8px;">RoadSense AI is a pothole detection system designed for UK roads. The primary focus of this project was the image-based component, which involved developing a system to detect potholes from camera images using machine learning and computer vision techniques, specifically applying object detection with YOLOv8 as part of my dissertation research. This work included designing a protocol for efficient data collection, data labeling, and preprocessing, followed by implementing and evaluating a model to accurately identify potholes. Previously, the model was trained on a public US dataset and tested on a small portion of a UK dataset, which resulted in limited performance due to differences in road conditions. The project is currently being extended during my internship, where I am applying transfer learning using a custom UK road dataset to further improve model performance.</p>
+<a href="https://github.com/Nehasq/Roadsense-Ai-YOLOv8-UK-Pothole-Detection"><button>View Project</button></a>
+
+</div>
+
 </div>
 
 <div class="project0">
