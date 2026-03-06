@@ -28,7 +28,7 @@ nav_order: 3
 
 <div class="project0">
     <img
-        src="{{ 'assets/img/Pothole-Detection.jpg' | relative_url }}"
+        src="{{ 'assets/img/extension-pothole-detection.png' | relative_url }}"
         alt="Pothole Detection project"
         style="width:150px; height:150px; object-fit:cover; margin-right:20px;"
         loading="eager"
@@ -36,10 +36,10 @@ nav_order: 3
 
    <div class="project-details0">
         <div class="heading">
-        <h3 style="margin-right: 100px;"> Extension: RoadSense-AI-YOLOv8-UK-Pothole-Detection</h3>       
-        <span class="timeline">Mar 2024 - Sept 2024</span>
+        <h3 style="margin-right: 100px;"> RoadSense AI Extension: Transfer Learning for UK Pothole Detection</h3>       
+        <span class="timeline">Dec 2024 - Jan 2025</span>
         </div>
-        <p style="margin-right: 100px; margin-top: 8px;">RoadSense AI is a pothole detection system designed for UK roads. The primary focus of this project was the image-based component, which involved developing a system to detect potholes from camera images using machine learning and computer vision techniques, specifically applying object detection with YOLOv8 as part of my dissertation research. This work included designing a protocol for efficient data collection, data labeling, and preprocessing, followed by implementing and evaluating a model to accurately identify potholes. Previously, the model was trained on a public US dataset and tested on a small portion of a UK dataset, which resulted in limited performance due to differences in road conditions. The project is currently being extended during my internship, where I am applying transfer learning using a custom UK road dataset to further improve model performance.</p>
+        <p style="margin-right: 100px; margin-top: 8px;">This project extends the RoadSense AI pothole detection system developed during my dissertation. While the original model was trained using a public US pothole dataset, its performance on UK road imagery was limited due to differences in road surfaces and environmental conditions. During my internship, I am improving the system by applying transfer learning using a custom UK road dataset. The goal is to adapt the model to local road characteristics and improve detection accuracy and robustness for real-world deployment.</p>
 <a href="https://github.com/Nehasq/Roadsense-Ai-YOLOv8-UK-Pothole-Detection"><button>View Project</button></a>
 
 </div>
