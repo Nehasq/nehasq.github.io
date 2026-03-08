@@ -66,7 +66,6 @@ nav_order: 3
 
 </div>
 
-
 <div class="project0">
     <img
         src="{{ 'assets/img/PPO_2.png' | relative_url }}"
