@@ -49,7 +49,7 @@ nav_order: 3
 <div class="project0">
     <img
         src="{{ 'assets/img/crime_analysis.png' | relative_url }}"
-        alt="Pothole Detection project"
+        alt="Crime Trend and Hotspot Analysis"
         style="width:150px; height:150px; object-fit:cover; margin-right:20px;"
         loading="eager"
     />
