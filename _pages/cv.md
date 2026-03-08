@@ -16,7 +16,7 @@ cv_pdf: /assets/pdf/Neha_Shariq_CV.pdf
   <img
         src="{{ 'assets/img/pdf.jpg' | relative_url }}"
         alt="PDF"
-        style="width:10x; height:10px; object-fit:cover;"
+        style="width:30x; height:40px; object-fit:cover;"
         loading="eager"
     />
   Download PDF

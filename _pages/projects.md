@@ -48,7 +48,7 @@ nav_order: 3
 
 <div class="project0">
     <img
-        src="{{ 'assets/img/PPO.png' | relative_url }}"
+        src="{{ 'assets/img/PPO_2.png' | relative_url }}"
         alt="Pothole Detection project"
         style="width:150px; height:150px; object-fit:cover; margin-right:20px;"
         loading="eager"
