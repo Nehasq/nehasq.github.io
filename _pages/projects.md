@@ -55,7 +55,7 @@ nav_order: 3
     />
     <div class="project-details0">
         <div class="heading">
-        <h3 style="margin-right: 100px;"> Patient Survival Analysis-EDA </h3>       
+        <h3 style="margin-right: 100px;"> Patient Survival Analysis </h3>       
         <span class="timeline">Dec 2023 - Jan 2024</span>
         </div>
         <p style="margin-right: 100px; margin-top: 8px;">This project analyzes a clinical healthcare dataset containing records of over 9,000 critically ill patients to investigate factors affecting patient survival and medical outcomes.The analysis focuses on 2-month and 6-month survival rates, identifying relationships between demographic factors, medical conditions, laboratory results, and healthcare indicators.Using Python and exploratory data analysis techniques, the project extracts insights from complex clinical data to better understand patterns related to survival outcomes and disease trends.</p>
