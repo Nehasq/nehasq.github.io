@@ -13,18 +13,24 @@ cv_pdf: /assets/pdf/Neha_Shariq_CV.pdf
 <p style="font-weight: bold; text-decoration: underline;">
 
 <a href="/assets/pdf/Neha_Shariq_CV.pdf" download>
-  <div class="pdficon">
-    {% include figure.liquid loading="eager" path="assets/img/pdf.jpg" %}
-  </div>
+  <img
+        src="{{ 'assets/img/pdf.jpg' | relative_url }}"
+        alt="PDF"
+        style="width:10x; height:10px; object-fit:cover;"
+        loading="eager"
+    />
   Download PDF
 </a>
 
 &emsp;&emsp;&emsp;
 
 <a href="/assets/pdf/Neha_Shariq_CV.pdf" target="_blank">
-  <div class="pdficon">
-    {% include figure.liquid loading="eager" path="assets/img/view.png" %}
-  </div>
+  <img
+        src="{{ 'assets/img/pdf.jpg' | relative_url }}"
+        alt="PDF"
+        style="width:10x; height:10px; object-fit:cover;"
+        loading="eager"
+    />
   View PDF
 </a>
 

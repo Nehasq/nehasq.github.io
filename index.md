@@ -13,7 +13,7 @@ profile:
     <p>🌐 <a href="https://www.linkedin.com/in/neha-shariq/" style="color: inherit; text-decoration: underline; underline"> Linkedin : Neha Shariq</a></p>
     <p>🏠 London, United Kingdom</p>
 news: true
-selected_papers: true
+selected_papers: false
 social: false
 ---
 
