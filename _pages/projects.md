@@ -48,6 +48,27 @@ nav_order: 3
 
 <div class="project0">
     <img
+        src="{{ 'assets/img/crime_analysis.png' | relative_url }}"
+        alt="Pothole Detection project"
+        style="width:150px; height:150px; object-fit:cover; margin-right:20px;"
+        loading="eager"
+    />
+
+   <div class="project-details0">
+        <div class="heading">
+        <h3 style="margin-right: 100px;"> Crime Trend and Hotspot Analysis (Montgomery County)</h3>       
+        <span class="timeline">Oct 2023 - Nov 2023</span>
+        </div>
+        <p style="margin-right: 100px; margin-top: 8px;">This project performs a data-driven analysis of crimes against persons in Montgomery County, Maryland (2018–2022) using exploratory data analysis and statistical techniques. The goal of the project is to uncover crime trends, identify geographic hotspots, and understand relationships between crime types, locations, and temporal factors.</p>
+<a href="https://github.com/Nehasq/Crime-Trend-and-Hotspot-Analysis"><button>View Project</button></a>
+
+</div>
+
+</div>
+
+
+<div class="project0">
+    <img
         src="{{ 'assets/img/PPO_2.png' | relative_url }}"
         alt="Pothole Detection project"
         style="width:150px; height:150px; object-fit:cover; margin-right:20px;"
