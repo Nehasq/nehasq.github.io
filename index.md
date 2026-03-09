@@ -20,9 +20,13 @@ social: false
 <p style="font-size: 28px; font-weight: bold;">Hello, I'm <b>Neha</b> 👋</p>
 
 <p style="font-size: 18px; line-height: 1.6;">
-I am a Data Scientist with 2+ years of experience in applied machine learning, AI research, and data-driven solutions. I hold an MSc in Data Science from Kingston University London and have led projects spanning machine learning, NLP, and AI system deployment.
+I am a Data Scientist with 2+ years of experience in machine learning, computer vision, and applied AI research. I hold an MSc in Data Science from Kingston University London, where my dissertation focused on developing a pothole detection system using YOLOv8 and computer vision techniques.
 </p>
 
 <p style="font-size: 18px; line-height: 1.6;">
-   My goal is to connect research with real-world applications, building AI systems that are both efficient and scalable.
+   Alongside my academic research, I currently work as a Data Scientist, where I develop AI-driven applications using Python, cloud platforms (GCP & AWS), and generative AI models. My work involves building machine learning systems, analysing data, and developing AI solutions that extract insights from large-scale datasets.
+</p>
+
+<p style="font-size: 18px; line-height: 1.6;">
+   My research interests lie in machine learning, computer vision, and intelligent systems, with a focus on developing scalable AI solutions that bridge research and real-world applications.
 </p>
