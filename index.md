@@ -10,7 +10,7 @@ profile:
   more_info: >
     <p>📞 <a href="" style="color: inherit; text-decoration: underline; underline">+44 7308 160347</a></p>
     <p>📧 <a href="mailto:shariqneha99@gmail.com" style="color: inherit; text-decoration: underline; underline">shariqneha99@gmail.com</a></p>
-    <p>🌐 <a href="https://www.linkedin.com/in/neha-shariq/" style="color: inherit; text-decoration: underline; underline"> Linkedin : Neha Shariq</a></p>
+    <p>🌐 <a href="https://www.linkedin.com/in/neha-shariq/" style="color: inherit; text-decoration: underline; underline"> LinkedIn : Neha Shariq</a></p>
     <p>🏠 London, United Kingdom</p>
 news: true
 selected_papers: false

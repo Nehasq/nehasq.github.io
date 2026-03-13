@@ -48,6 +48,25 @@ nav_order: 3
 
 <div class="project0">
     <img
+        src="{{ 'assets/img/cover_type.png' | relative_url }}"
+        alt="Forest Cover Type Clustering and Classification"
+        style="width:150px; height:150px; object-fit:cover; margin-right:20px;"
+        loading="eager"
+    />
+    <div class="project-details0">
+        <div class="heading">
+        <h3 style="margin-right: 100px;"> Forest Cover Type Clustering and Classification </h3>       
+        <span class="timeline">Feb 2024 - Mar 2024</span>
+        </div>
+        <p style="margin-right: 100px; margin-top: 8px;">This project investigates both unsupervised and supervised machine learning techniques on a large-scale forest cover dataset containing 581,012 samples and 54 features. The objective is to explore clustering structures within the dataset and evaluate multiple classification models for predicting forest cover types.</p>
+    <a href="https://github.com/Nehasq/Forest-Cover-Type-Clustering-and-Classification"><button>View Project</button></a>
+
+</div>
+
+</div>
+
+<div class="project0">
+    <img
         src="{{ 'assets/img/health.png' | relative_url }}"
         alt="Patient Survival Analysis"
         style="width:150px; height:150px; object-fit:cover; margin-right:20px;"
