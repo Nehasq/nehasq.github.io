@@ -48,6 +48,25 @@ nav_order: 3
 
 <div class="project0">
     <img
+        src="{{ 'assets/img/intrusion_detection.jpeg' | relative_url }}"
+        alt="Intrusion Detection System"
+        style="width:150px; height:150px; object-fit:cover; margin-right:20px;"
+        loading="eager"
+    />
+    <div class="project-details0">
+        <div class="heading">
+        <h3 style="margin-right: 100px;"> Intrusion Detection System </h3>       
+        <span class="timeline">Mar 2024 - Apr 2024</span>
+        </div>
+        <p style="margin-right: 100px; margin-top: 8px;"> Developed an intrusion detection system using an Autoencoder for anomaly detection and an LSTM model for multiclass attack classification on the KDDCUP99 dataset. Built a Flask-based web application for real-time data upload, detection, and visualisation of network threats.</p>
+    <a href="https://github.com/Nehasq/Intrusion-Detection-System-Deep-Learning"><button>View Project</button></a>
+
+</div>
+
+</div>
+
+<div class="project0">
+    <img
         src="{{ 'assets/img/cover_type.png' | relative_url }}"
         alt="Forest Cover Type Clustering and Classification"
         style="width:150px; height:150px; object-fit:cover; margin-right:20px;"

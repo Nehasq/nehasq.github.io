@@ -24,7 +24,7 @@ I am a Data Scientist with 2+ years of experience in machine learning, computer 
 </p>
 
 <p style="font-size: 18px; line-height: 1.6;">
-   I previously worked as a Data Scientist at Repolify, where I developed AI applications using Python, cloud platforms, and generative AI models. This experience involved building machine learning systems and analysing large-scale data to support real-world AI applications.
+   My experience spans both research and industry, including developing machine learning models, conducting data-driven experimentation, and building AI applications using Python and cloud platforms. I have also worked on dataset development, model evaluation, and transfer learning for real-world applications.
 </p>
 
 <p style="font-size: 18px; line-height: 1.6;">
